@@ -1,0 +1,16 @@
+com.dexterous.flutter_local_notifications_example.app-media-1.1.0-0 /Users/vanmac/.gradle/caches/transforms-3/338cd68a828e27046889f68073a912a1/transformed/media-1.1.0/res
+com.dexterous.flutter_local_notifications_example.app-jetified-window-java-1.0.0-1 /Users/vanmac/.gradle/caches/transforms-3/9edda5f428df5416428924dade0f3b6d/transformed/jetified-window-java-1.0.0/res
+com.dexterous.flutter_local_notifications_example.app-jetified-annotation-experimental-1.1.0-2 /Users/vanmac/.gradle/caches/transforms-3/bb2247605b9b63558bd4596beaf9f22f/transformed/jetified-annotation-experimental-1.1.0/res
+com.dexterous.flutter_local_notifications_example.app-jetified-window-1.0.0-3 /Users/vanmac/.gradle/caches/transforms-3/c1ba9eed255e14222e6e048478f14b43/transformed/jetified-window-1.0.0/res
+com.dexterous.flutter_local_notifications_example.app-core-1.6.0-4 /Users/vanmac/.gradle/caches/transforms-3/d198cab27e036b92dbbec7873ccf3014/transformed/core-1.6.0/res
+com.dexterous.flutter_local_notifications_example.app-debug-5 /Users/vanmac/Desktop/upwork/service_with_action_buttons/android/app/src/debug/res
+com.dexterous.flutter_local_notifications_example.app-main-6 /Users/vanmac/Desktop/upwork/service_with_action_buttons/android/app/src/main/res
+com.dexterous.flutter_local_notifications_example.app-pngs-7 /Users/vanmac/Desktop/upwork/service_with_action_buttons/build/app/generated/res/pngs/debug
+com.dexterous.flutter_local_notifications_example.app-resValues-8 /Users/vanmac/Desktop/upwork/service_with_action_buttons/build/app/generated/res/resValues/debug
+com.dexterous.flutter_local_notifications_example.app-rs-9 /Users/vanmac/Desktop/upwork/service_with_action_buttons/build/app/generated/res/rs/debug
+com.dexterous.flutter_local_notifications_example.app-mergeDebugResources-10 /Users/vanmac/Desktop/upwork/service_with_action_buttons/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir
+com.dexterous.flutter_local_notifications_example.app-mergeDebugResources-11 /Users/vanmac/Desktop/upwork/service_with_action_buttons/build/app/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+com.dexterous.flutter_local_notifications_example.app-merged_res-12 /Users/vanmac/Desktop/upwork/service_with_action_buttons/build/app/intermediates/merged_res/debug
+com.dexterous.flutter_local_notifications_example.app-packaged_res-13 /Users/vanmac/Desktop/upwork/service_with_action_buttons/build/flutter_background_service_android/intermediates/packaged_res/debug
+com.dexterous.flutter_local_notifications_example.app-packaged_res-14 /Users/vanmac/Desktop/upwork/service_with_action_buttons/build/flutter_local_notifications/intermediates/packaged_res/debug
+com.dexterous.flutter_local_notifications_example.app-packaged_res-15 /Users/vanmac/Desktop/upwork/service_with_action_buttons/build/integration_test/intermediates/packaged_res/debug

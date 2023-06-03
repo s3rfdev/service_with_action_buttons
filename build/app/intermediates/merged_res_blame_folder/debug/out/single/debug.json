@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "/Users/vanmac/.gradle/daemon/7.4/com.dexterous.flutter_local_notifications_example.app-merged_res-12:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/vanmac/.gradle/daemon/7.4/com.dexterous.flutter_local_notifications_example.app-main-6:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/vanmac/.gradle/daemon/7.4/com.dexterous.flutter_local_notifications_example.app-merged_res-12:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/vanmac/.gradle/daemon/7.4/com.dexterous.flutter_local_notifications_example.app-main-6:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/vanmac/.gradle/daemon/7.4/com.dexterous.flutter_local_notifications_example.app-merged_res-12:/drawable-v21_launch_background.xml.flat",
+        "source": "/Users/vanmac/.gradle/daemon/7.4/com.dexterous.flutter_local_notifications_example.app-main-6:/drawable-v21/launch_background.xml"
+    },
+    {
+        "merged": "/Users/vanmac/.gradle/daemon/7.4/com.dexterous.flutter_local_notifications_example.app-merged_res-12:/raw_keep.xml.flat",
+        "source": "/Users/vanmac/.gradle/daemon/7.4/com.dexterous.flutter_local_notifications_example.app-main-6:/raw/keep.xml"
+    },
+    {
+        "merged": "/Users/vanmac/.gradle/daemon/7.4/com.dexterous.flutter_local_notifications_example.app-merged_res-12:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/vanmac/.gradle/daemon/7.4/com.dexterous.flutter_local_notifications_example.app-main-6:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/vanmac/.gradle/daemon/7.4/com.dexterous.flutter_local_notifications_example.app-merged_res-12:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/vanmac/.gradle/daemon/7.4/com.dexterous.flutter_local_notifications_example.app-main-6:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/vanmac/.gradle/daemon/7.4/com.dexterous.flutter_local_notifications_example.app-merged_res-12:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/vanmac/.gradle/daemon/7.4/com.dexterous.flutter_local_notifications_example.app-main-6:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.dexterous.flutter_local_notifications_example.app-merged_res-12:/drawable_play.png.flat",
+        "source": "com.dexterous.flutter_local_notifications_example.app-main-6:/drawable/play.png"
+    },
+    {
+        "merged": "/Users/vanmac/.gradle/daemon/7.4/com.dexterous.flutter_local_notifications_example.app-merged_res-12:/drawable_me.png.flat",
+        "source": "/Users/vanmac/.gradle/daemon/7.4/com.dexterous.flutter_local_notifications_example.app-main-6:/drawable/me.png"
+    },
+    {
+        "merged": "/Users/vanmac/.gradle/daemon/7.4/com.dexterous.flutter_local_notifications_example.app-merged_res-12:/drawable_sample_large_icon.png.flat",
+        "source": "/Users/vanmac/.gradle/daemon/7.4/com.dexterous.flutter_local_notifications_example.app-main-6:/drawable/sample_large_icon.png"
+    },
+    {
+        "merged": "/Users/vanmac/.gradle/daemon/7.4/com.dexterous.flutter_local_notifications_example.app-merged_res-12:/drawable_food.png.flat",
+        "source": "/Users/vanmac/.gradle/daemon/7.4/com.dexterous.flutter_local_notifications_example.app-main-6:/drawable/food.png"
+    },
+    {
+        "merged": "/Users/vanmac/.gradle/daemon/7.4/com.dexterous.flutter_local_notifications_example.app-merged_res-12:/raw_slow_spring_board.mp3.flat",
+        "source": "/Users/vanmac/.gradle/daemon/7.4/com.dexterous.flutter_local_notifications_example.app-main-6:/raw/slow_spring_board.mp3"
+    },
+    {
+        "merged": "/Users/vanmac/.gradle/daemon/7.4/com.dexterous.flutter_local_notifications_example.app-merged_res-12:/drawable_launch_background.xml.flat",
+        "source": "/Users/vanmac/.gradle/daemon/7.4/com.dexterous.flutter_local_notifications_example.app-main-6:/drawable/launch_background.xml"
+    },
+    {
+        "merged": "com.dexterous.flutter_local_notifications_example.app-merged_res-12:/drawable_stop.png.flat",
+        "source": "com.dexterous.flutter_local_notifications_example.app-main-6:/drawable/stop.png"
+    },
+    {
+        "merged": "/Users/vanmac/.gradle/daemon/7.4/com.dexterous.flutter_local_notifications_example.app-merged_res-12:/drawable_secondary_icon.png.flat",
+        "source": "/Users/vanmac/.gradle/daemon/7.4/com.dexterous.flutter_local_notifications_example.app-main-6:/drawable/secondary_icon.png"
+    },
+    {
+        "merged": "/Users/vanmac/.gradle/daemon/7.4/com.dexterous.flutter_local_notifications_example.app-merged_res-12:/drawable_app_icon.png.flat",
+        "source": "/Users/vanmac/.gradle/daemon/7.4/com.dexterous.flutter_local_notifications_example.app-main-6:/drawable/app_icon.png"
+    }
+]
